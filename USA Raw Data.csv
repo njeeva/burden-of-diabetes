@@ -1,0 +1,591 @@
+Location,Year,Age,Sex,Cause of death or injury,Measure,Value,Lower bound,Upper bound
+United States,2017,All ages,Both,HIV/AIDS resulting in other diseases,Percent of total DALYs,0.004015265,0.003417301,0.004674818
+United States,1990 - 2017,All ages,Both,HIV/AIDS resulting in other diseases,DALYs annual % change,-0.055554481,,
+United States,2017,All ages,Both,Diarrheal diseases,Percent of total DALYs,0.004357876,0.003853549,0.004899768
+United States,1990 - 2017,All ages,Both,Diarrheal diseases,DALYs annual % change,0.013397939,,
+United States,2017,All ages,Both,Typhoid fever,Percent of total DALYs,2.18E-07,1.67E-07,4.82E-07
+United States,1990 - 2017,All ages,Both,Typhoid fever,DALYs annual % change,-0.078493498,,
+United States,2017,All ages,Both,Paratyphoid fever,Percent of total DALYs,9.28E-07,5.85E-07,2.61664E-06
+United States,1990 - 2017,All ages,Both,Paratyphoid fever,DALYs annual % change,-0.076796135,,
+United States,2017,All ages,Both,Other intestinal infectious diseases,Percent of total DALYs,5.54602E-06,2.88565E-06,8.79465E-06
+United States,1990 - 2017,All ages,Both,Other intestinal infectious diseases,DALYs annual % change,-0.02457743,,
+United States,2017,All ages,Both,Lower respiratory infections,Percent of total DALYs,0.01408706,0.012518774,0.015838834
+United States,1990 - 2017,All ages,Both,Lower respiratory infections,DALYs annual % change,-0.002208096,,
+United States,2017,All ages,Both,Upper respiratory infections,Percent of total DALYs,0.003028569,0.001925284,0.004494531
+United States,1990 - 2017,All ages,Both,Upper respiratory infections,DALYs annual % change,-0.005781779,,
+United States,2017,All ages,Both,Otitis media,Percent of total DALYs,0.00047874,0.00030565,0.000716463
+United States,1990 - 2017,All ages,Both,Otitis media,DALYs annual % change,-0.005723817,,
+United States,2017,All ages,Both,Pneumococcal meningitis,Percent of total DALYs,0.000172334,0.000160011,0.000192904
+United States,1990 - 2017,All ages,Both,Pneumococcal meningitis,DALYs annual % change,-0.031851587,,
+United States,2017,All ages,Both,H influenzae type B meningitis,Percent of total DALYs,0.000170277,0.000147569,0.000205662
+United States,1990 - 2017,All ages,Both,H influenzae type B meningitis,DALYs annual % change,-0.042164743,,
+United States,2017,All ages,Both,Meningococcal meningitis,Percent of total DALYs,4.88067E-05,4.26165E-05,5.91847E-05
+United States,1990 - 2017,All ages,Both,Meningococcal meningitis,DALYs annual % change,-0.06529186,,
+United States,2017,All ages,Both,Other meningitis,Percent of total DALYs,0.000239442,0.000209439,0.000287388
+United States,1990 - 2017,All ages,Both,Other meningitis,DALYs annual % change,-0.037143101,,
+United States,2017,All ages,Both,Encephalitis,Percent of total DALYs,0.000253173,0.00022369,0.00031154
+United States,1990 - 2017,All ages,Both,Encephalitis,DALYs annual % change,-0.01035502,,
+United States,2017,All ages,Both,Diphtheria,Percent of total DALYs,9.39E-07,8.06E-07,1.09344E-06
+United States,1990 - 2017,All ages,Both,Diphtheria,DALYs annual % change,0.01098626,,
+United States,2017,All ages,Both,Whooping cough,Percent of total DALYs,3.42659E-05,1.97392E-05,4.73312E-05
+United States,1990 - 2017,All ages,Both,Whooping cough,DALYs annual % change,-0.001233699,,
+United States,2017,All ages,Both,Tetanus,Percent of total DALYs,1.25022E-06,1.02524E-06,1.53755E-06
+United States,1990 - 2017,All ages,Both,Tetanus,DALYs annual % change,-0.058588956,,
+United States,2017,All ages,Both,Measles,Percent of total DALYs,6.68E-08,4.09E-08,1.03E-07
+United States,1990 - 2017,All ages,Both,Measles,DALYs annual % change,-0.217868731,,
+United States,2017,All ages,Both,Varicella and herpes zoster,Percent of total DALYs,0.000174361,0.000128663,0.000237008
+United States,1990 - 2017,All ages,Both,Varicella and herpes zoster,DALYs annual % change,-0.004520597,,
+United States,2017,All ages,Both,Malaria,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Malaria,DALYs annual % change,0,,
+United States,2017,All ages,Both,Chagas disease,Percent of total DALYs,1.86473E-05,1.32848E-05,2.52364E-05
+United States,1990 - 2017,All ages,Both,Chagas disease,DALYs annual % change,0.005473512,,
+United States,2017,All ages,Both,Visceral leishmaniasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Visceral leishmaniasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Cutaneous and mucocutaneous leishmaniasis,Percent of total DALYs,1.66E-09,1.62E-10,4.99E-09
+United States,1990 - 2017,All ages,Both,Cutaneous and mucocutaneous leishmaniasis,DALYs annual % change,0.010354479,,
+United States,2017,All ages,Both,African trypanosomiasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,African trypanosomiasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Schistosomiasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Schistosomiasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Cysticercosis,Percent of total DALYs,0.000563636,0.000342251,0.000858481
+United States,1990 - 2017,All ages,Both,Cysticercosis,DALYs annual % change,0.003507497,,
+United States,2017,All ages,Both,Cystic echinococcosis,Percent of total DALYs,8.43E-07,5.18E-07,1.21267E-06
+United States,1990 - 2017,All ages,Both,Cystic echinococcosis,DALYs annual % change,-0.028385122,,
+United States,2017,All ages,Both,Lymphatic filariasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Lymphatic filariasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Onchocerciasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Onchocerciasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Trachoma,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Trachoma,DALYs annual % change,0,,
+United States,2017,All ages,Both,Dengue,Percent of total DALYs,3.74163E-06,2.4937E-06,5.69704E-06
+United States,1990 - 2017,All ages,Both,Dengue,DALYs annual % change,0.029046009,,
+United States,2017,All ages,Both,Yellow fever,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Yellow fever,DALYs annual % change,0,,
+United States,2017,All ages,Both,Rabies,Percent of total DALYs,2.27524E-06,1.96468E-06,2.62089E-06
+United States,1990 - 2017,All ages,Both,Rabies,DALYs annual % change,0.019137648,,
+United States,2017,All ages,Both,Ascariasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Ascariasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Trichuriasis,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Trichuriasis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Hookworm disease,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Hookworm disease,DALYs annual % change,0,,
+United States,2017,All ages,Both,Food-borne trematodiases,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Food-borne trematodiases,DALYs annual % change,0,,
+United States,2017,All ages,Both,Other neglected tropical diseases,Percent of total DALYs,4.7412E-05,1.67607E-05,6.17694E-05
+United States,1990 - 2017,All ages,Both,Other neglected tropical diseases,DALYs annual % change,0.027507633,,
+United States,2017,All ages,Both,Maternal hemorrhage,Percent of total DALYs,5.59279E-05,4.00906E-05,7.95989E-05
+United States,1990 - 2017,All ages,Both,Maternal hemorrhage,DALYs annual % change,-0.009420562,,
+United States,2017,All ages,Both,Maternal sepsis and other maternal infections,Percent of total DALYs,7.29187E-05,4.71424E-05,0.000107546
+United States,1990 - 2017,All ages,Both,Maternal sepsis and other maternal infections,DALYs annual % change,-0.002915727,,
+United States,2017,All ages,Both,Maternal hypertensive disorders,Percent of total DALYs,0.000103919,7.22248E-05,0.000140474
+United States,1990 - 2017,All ages,Both,Maternal hypertensive disorders,DALYs annual % change,0.000399344,,
+United States,2017,All ages,Both,Maternal obstructed labor and uterine rupture,Percent of total DALYs,1.47119E-05,1.05109E-05,1.9923E-05
+United States,1990 - 2017,All ages,Both,Maternal obstructed labor and uterine rupture,DALYs annual % change,0.001117079,,
+United States,2017,All ages,Both,Ectopic pregnancy,Percent of total DALYs,1.33558E-05,7.49119E-06,2.2493E-05
+United States,1990 - 2017,All ages,Both,Ectopic pregnancy,DALYs annual % change,-0.030227597,,
+United States,2017,All ages,Both,Indirect maternal deaths,Percent of total DALYs,9.64841E-05,4.95241E-05,0.000167746
+United States,1990 - 2017,All ages,Both,Indirect maternal deaths,DALYs annual % change,0.041363261,,
+United States,2017,All ages,Both,Late maternal deaths,Percent of total DALYs,0.000109113,7.3244E-05,0.000156685
+United States,1990 - 2017,All ages,Both,Late maternal deaths,DALYs annual % change,0.019553992,,
+United States,2017,All ages,Both,Other maternal disorders,Percent of total DALYs,0.00023156,0.000173355,0.000291987
+United States,1990 - 2017,All ages,Both,Other maternal disorders,DALYs annual % change,0.023493817,,
+United States,2017,All ages,Both,Neonatal preterm birth,Percent of total DALYs,0.011528933,0.00948949,0.013936404
+United States,1990 - 2017,All ages,Both,Neonatal preterm birth,DALYs annual % change,-0.017242208,,
+United States,2017,All ages,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of total DALYs,0.002894846,0.002226708,0.003853872
+United States,1990 - 2017,All ages,Both,Neonatal encephalopathy due to birth asphyxia and trauma,DALYs annual % change,-0.015417666,,
+United States,2017,All ages,Both,Neonatal sepsis and other neonatal infections,Percent of total DALYs,0.001640783,0.001134963,0.002352135
+United States,1990 - 2017,All ages,Both,Neonatal sepsis and other neonatal infections,DALYs annual % change,-0.006997643,,
+United States,2017,All ages,Both,Hemolytic disease and other neonatal jaundice,Percent of total DALYs,0.000125249,0.000100455,0.000153085
+United States,1990 - 2017,All ages,Both,Hemolytic disease and other neonatal jaundice,DALYs annual % change,-0.00658347,,
+United States,2017,All ages,Both,Other neonatal disorders,Percent of total DALYs,0.002311986,0.002002299,0.002676832
+United States,1990 - 2017,All ages,Both,Other neonatal disorders,DALYs annual % change,-0.017228652,,
+United States,2017,All ages,Both,Protein-energy malnutrition,Percent of total DALYs,0.000535754,0.000410422,0.00062531
+United States,1990 - 2017,All ages,Both,Protein-energy malnutrition,DALYs annual % change,0.021053069,,
+United States,2017,All ages,Both,Iodine deficiency,Percent of total DALYs,0.00018713,9.36042E-05,0.00033715
+United States,1990 - 2017,All ages,Both,Iodine deficiency,DALYs annual % change,-0.002513253,,
+United States,2017,All ages,Both,Vitamin A deficiency,Percent of total DALYs,0.000117111,5.76349E-05,0.000208604
+United States,1990 - 2017,All ages,Both,Vitamin A deficiency,DALYs annual % change,-0.021688393,,
+United States,2017,All ages,Both,Dietary iron deficiency,Percent of total DALYs,0.001904217,0.001205411,0.002804454
+United States,1990 - 2017,All ages,Both,Dietary iron deficiency,DALYs annual % change,0.002413722,,
+United States,2017,All ages,Both,Other nutritional deficiencies,Percent of total DALYs,9.02993E-05,4.65122E-05,0.000214582
+United States,1990 - 2017,All ages,Both,Other nutritional deficiencies,DALYs annual % change,0.005070464,,
+United States,2017,All ages,Both,Syphilis,Percent of total DALYs,7.23873E-05,5.451E-05,9.9759E-05
+United States,1990 - 2017,All ages,Both,Syphilis,DALYs annual % change,-0.011938174,,
+United States,2017,All ages,Both,Chlamydial infection,Percent of total DALYs,0.000106778,6.0923E-05,0.00019252
+United States,1990 - 2017,All ages,Both,Chlamydial infection,DALYs annual % change,-0.006554911,,
+United States,2017,All ages,Both,Gonococcal infection,Percent of total DALYs,6.05083E-05,4.17414E-05,9.75444E-05
+United States,1990 - 2017,All ages,Both,Gonococcal infection,DALYs annual % change,-0.008133317,,
+United States,2017,All ages,Both,Trichomoniasis,Percent of total DALYs,0.000121349,4.96559E-05,0.000251665
+United States,1990 - 2017,All ages,Both,Trichomoniasis,DALYs annual % change,-0.002888851,,
+United States,2017,All ages,Both,Genital herpes,Percent of total DALYs,0.000149617,4.87124E-05,0.000352645
+United States,1990 - 2017,All ages,Both,Genital herpes,DALYs annual % change,0.000376227,,
+United States,2017,All ages,Both,Other sexually transmitted infections,Percent of total DALYs,0.000123628,8.18211E-05,0.000195617
+United States,1990 - 2017,All ages,Both,Other sexually transmitted infections,DALYs annual % change,-0.006488724,,
+United States,2017,All ages,Both,Acute hepatitis A,Percent of total DALYs,0.000201534,0.00017008,0.000244169
+United States,1990 - 2017,All ages,Both,Acute hepatitis A,DALYs annual % change,-0.023387215,,
+United States,2017,All ages,Both,Acute hepatitis B,Percent of total DALYs,0.000155749,0.000116633,0.00020237
+United States,1990 - 2017,All ages,Both,Acute hepatitis B,DALYs annual % change,-0.020472352,,
+United States,2017,All ages,Both,Acute hepatitis C,Percent of total DALYs,1.08521E-05,5.62905E-06,1.98391E-05
+United States,1990 - 2017,All ages,Both,Acute hepatitis C,DALYs annual % change,-0.021930521,,
+United States,2017,All ages,Both,Acute hepatitis E,Percent of total DALYs,4.18044E-05,3.1521E-05,5.74505E-05
+United States,1990 - 2017,All ages,Both,Acute hepatitis E,DALYs annual % change,-0.030723141,,
+United States,2017,All ages,Both,Leprosy,Percent of total DALYs,2.71E-08,1.96E-08,3.68E-08
+United States,1990 - 2017,All ages,Both,Leprosy,DALYs annual % change,0.003938706,,
+United States,2017,All ages,Both,Other unspecified infectious diseases,Percent of total DALYs,0.001203254,0.001059227,0.001522742
+United States,1990 - 2017,All ages,Both,Other unspecified infectious diseases,DALYs annual % change,-0.011261593,,
+United States,2017,All ages,Both,Esophageal cancer,Percent of total DALYs,0.004046986,0.003581365,0.004551644
+United States,1990 - 2017,All ages,Both,Esophageal cancer,DALYs annual % change,0.008323249,,
+United States,2017,All ages,Both,Stomach cancer,Percent of total DALYs,0.003427837,0.003052004,0.003831981
+United States,1990 - 2017,All ages,Both,Stomach cancer,DALYs annual % change,-0.010950914,,
+United States,2017,All ages,Both,Liver cancer due to hepatitis B,Percent of total DALYs,0.000927753,0.000810015,0.001055259
+United States,1990 - 2017,All ages,Both,Liver cancer due to hepatitis B,DALYs annual % change,0.028442836,,
+United States,2017,All ages,Both,Liver cancer due to hepatitis C,Percent of total DALYs,0.002410517,0.002123351,0.002726034
+United States,1990 - 2017,All ages,Both,Liver cancer due to hepatitis C,DALYs annual % change,0.033100472,,
+United States,2017,All ages,Both,Liver cancer due to alcohol use,Percent of total DALYs,0.001477465,0.001283999,0.001676897
+United States,1990 - 2017,All ages,Both,Liver cancer due to alcohol use,DALYs annual % change,0.032519261,,
+United States,2017,All ages,Both,Liver cancer due to other causes,Percent of total DALYs,0.000583896,0.000497007,0.0006817
+United States,1990 - 2017,All ages,Both,Liver cancer due to other causes,DALYs annual % change,0.028883014,,
+United States,2017,All ages,Both,Larynx cancer,Percent of total DALYs,0.001208627,0.001087426,0.001338371
+United States,1990 - 2017,All ages,Both,Larynx cancer,DALYs annual % change,-0.005259176,,
+United States,2017,All ages,Both,"Tracheal, bronchus, and lung cancer",Percent of total DALYs,0.037585525,0.033349302,0.042124785
+United States,1990 - 2017,All ages,Both,"Tracheal, bronchus, and lung cancer",DALYs annual % change,-0.004940147,,
+United States,2017,All ages,Both,Breast cancer,Percent of total DALYs,0.012591579,0.011491051,0.013793434
+United States,1990 - 2017,All ages,Both,Breast cancer,DALYs annual % change,-0.007418649,,
+United States,2017,All ages,Both,Cervical cancer,Percent of total DALYs,0.002054583,0.001830217,0.002301197
+United States,1990 - 2017,All ages,Both,Cervical cancer,DALYs annual % change,-0.003773212,,
+United States,2017,All ages,Both,Uterine cancer,Percent of total DALYs,0.002012343,0.001856477,0.002175162
+United States,1990 - 2017,All ages,Both,Uterine cancer,DALYs annual % change,0.012479462,,
+United States,2017,All ages,Both,Prostate cancer,Percent of total DALYs,0.00683508,0.006015507,0.010248198
+United States,1990 - 2017,All ages,Both,Prostate cancer,DALYs annual % change,-0.002903235,,
+United States,2017,All ages,Both,Colon and rectum cancer,Percent of total DALYs,0.016086401,0.014460373,0.017792983
+United States,1990 - 2017,All ages,Both,Colon and rectum cancer,DALYs annual % change,-0.003318401,,
+United States,2017,All ages,Both,Lip and oral cavity cancer,Percent of total DALYs,0.001606653,0.001441354,0.001776946
+United States,1990 - 2017,All ages,Both,Lip and oral cavity cancer,DALYs annual % change,-0.00346323,,
+United States,2017,All ages,Both,Nasopharynx cancer,Percent of total DALYs,0.000318792,0.000284071,0.000357832
+United States,1990 - 2017,All ages,Both,Nasopharynx cancer,DALYs annual % change,-0.006091341,,
+United States,2017,All ages,Both,Other pharynx cancer,Percent of total DALYs,0.000904191,0.000808145,0.001008479
+United States,1990 - 2017,All ages,Both,Other pharynx cancer,DALYs annual % change,0.003530702,,
+United States,2017,All ages,Both,Gallbladder and biliary tract cancer,Percent of total DALYs,0.00085348,0.000754707,0.000975242
+United States,1990 - 2017,All ages,Both,Gallbladder and biliary tract cancer,DALYs annual % change,-0.006204841,,
+United States,2017,All ages,Both,Pancreatic cancer,Percent of total DALYs,0.009360842,0.008265434,0.010541273
+United States,1990 - 2017,All ages,Both,Pancreatic cancer,DALYs annual % change,0.010668296,,
+United States,2017,All ages,Both,Malignant skin melanoma,Percent of total DALYs,0.002800658,0.002241866,0.003913137
+United States,1990 - 2017,All ages,Both,Malignant skin melanoma,DALYs annual % change,0.005204121,,
+United States,2017,All ages,Both,Ovarian cancer,Percent of total DALYs,0.003596076,0.00314885,0.004063862
+United States,1990 - 2017,All ages,Both,Ovarian cancer,DALYs annual % change,-0.00139046,,
+United States,2017,All ages,Both,Testicular cancer,Percent of total DALYs,0.00024603,0.000223807,0.000270049
+United States,1990 - 2017,All ages,Both,Testicular cancer,DALYs annual % change,-0.004801655,,
+United States,2017,All ages,Both,Kidney cancer,Percent of total DALYs,0.003672338,0.003240751,0.004155823
+United States,1990 - 2017,All ages,Both,Kidney cancer,DALYs annual % change,0.005862236,,
+United States,2017,All ages,Both,Bladder cancer,Percent of total DALYs,0.003196853,0.002895065,0.003523807
+United States,1990 - 2017,All ages,Both,Bladder cancer,DALYs annual % change,0.006521471,,
+United States,2017,All ages,Both,Brain and nervous system cancer,Percent of total DALYs,0.004892962,0.004234788,0.005699784
+United States,1990 - 2017,All ages,Both,Brain and nervous system cancer,DALYs annual % change,0.002400646,,
+United States,2017,All ages,Both,Thyroid cancer,Percent of total DALYs,0.000547885,0.000510978,0.000584912
+United States,1990 - 2017,All ages,Both,Thyroid cancer,DALYs annual % change,0.013647058,,
+United States,2017,All ages,Both,Mesothelioma,Percent of total DALYs,0.000562178,0.000499908,0.000628818
+United States,1990 - 2017,All ages,Both,Mesothelioma,DALYs annual % change,-0.0024913,,
+United States,2017,All ages,Both,Hodgkin lymphoma,Percent of total DALYs,0.000457506,0.000376227,0.000673509
+United States,1990 - 2017,All ages,Both,Hodgkin lymphoma,DALYs annual % change,-0.021545918,,
+United States,2017,All ages,Both,Non-Hodgkin lymphoma,Percent of total DALYs,0.005092047,0.004572791,0.005610831
+United States,1990 - 2017,All ages,Both,Non-Hodgkin lymphoma,DALYs annual % change,-0.006446722,,
+United States,2017,All ages,Both,Multiple myeloma,Percent of total DALYs,0.002836887,0.002429595,0.003747769
+United States,1990 - 2017,All ages,Both,Multiple myeloma,DALYs annual % change,0.00669902,,
+United States,2017,All ages,Both,Other malignant neoplasms,Percent of total DALYs,0.004500073,0.003993584,0.00514361
+United States,1990 - 2017,All ages,Both,Other malignant neoplasms,DALYs annual % change,0.000725819,,
+United States,2017,All ages,Both,Rheumatic heart disease,Percent of total DALYs,0.001725165,0.001532004,0.00195077
+United States,1990 - 2017,All ages,Both,Rheumatic heart disease,DALYs annual % change,-0.013973201,,
+United States,2017,All ages,Both,Ischemic heart disease,Percent of total DALYs,0.080086531,0.071232202,0.089593614
+United States,1990 - 2017,All ages,Both,Ischemic heart disease,DALYs annual % change,-0.016462042,,
+United States,2017,All ages,Both,Ischemic stroke,Percent of total DALYs,0.018057616,0.016366305,0.019546755
+United States,1990 - 2017,All ages,Both,Ischemic stroke,DALYs annual % change,-0.001660303,,
+United States,2017,All ages,Both,Intracerebral hemorrhage,Percent of total DALYs,0.012571035,0.011290491,0.013913045
+United States,1990 - 2017,All ages,Both,Intracerebral hemorrhage,DALYs annual % change,-0.001501923,,
+United States,2017,All ages,Both,Subarachnoid hemorrhage,Percent of total DALYs,0.005067593,0.004606683,0.005521216
+United States,1990 - 2017,All ages,Both,Subarachnoid hemorrhage,DALYs annual % change,-0.000991599,,
+United States,2017,All ages,Both,Hypertensive heart disease,Percent of total DALYs,0.00845778,0.005157609,0.009696237
+United States,1990 - 2017,All ages,Both,Hypertensive heart disease,DALYs annual % change,0.014119695,,
+United States,2017,All ages,Both,Atrial fibrillation and flutter,Percent of total DALYs,0.006982996,0.00623622,0.007803119
+United States,1990 - 2017,All ages,Both,Atrial fibrillation and flutter,DALYs annual % change,0.013942642,,
+United States,2017,All ages,Both,Aortic aneurysm,Percent of total DALYs,0.00222042,0.001957981,0.002510751
+United States,1990 - 2017,All ages,Both,Aortic aneurysm,DALYs annual % change,-0.018655099,,
+United States,2017,All ages,Both,Peripheral artery disease,Percent of total DALYs,0.002407736,0.001404289,0.004310321
+United States,1990 - 2017,All ages,Both,Peripheral artery disease,DALYs annual % change,0.032288848,,
+United States,2017,All ages,Both,Endocarditis,Percent of total DALYs,0.001705135,0.001423324,0.002182188
+United States,1990 - 2017,All ages,Both,Endocarditis,DALYs annual % change,0.011298126,,
+United States,2017,All ages,Both,Other cardiovascular and circulatory diseases,Percent of total DALYs,0.006630371,0.00613771,0.00716088
+United States,1990 - 2017,All ages,Both,Other cardiovascular and circulatory diseases,DALYs annual % change,-0.001596294,,
+United States,2017,All ages,Both,Chronic obstructive pulmonary disease,Percent of total DALYs,0.046928448,0.042492393,0.051261578
+United States,1990 - 2017,All ages,Both,Chronic obstructive pulmonary disease,DALYs annual % change,0.011254483,,
+United States,2017,All ages,Both,Silicosis,Percent of total DALYs,1.87777E-05,1.50388E-05,2.31194E-05
+United States,1990 - 2017,All ages,Both,Silicosis,DALYs annual % change,-0.028199608,,
+United States,2017,All ages,Both,Asbestosis,Percent of total DALYs,0.000113001,9.43863E-05,0.000126496
+United States,1990 - 2017,All ages,Both,Asbestosis,DALYs annual % change,0.011603477,,
+United States,2017,All ages,Both,Coal workers pneumoconiosis,Percent of total DALYs,5.09404E-05,4.40796E-05,6.09083E-05
+United States,1990 - 2017,All ages,Both,Coal workers pneumoconiosis,DALYs annual % change,-0.040364878,,
+United States,2017,All ages,Both,Other pneumoconiosis,Percent of total DALYs,1.71595E-05,1.42711E-05,2.14417E-05
+United States,1990 - 2017,All ages,Both,Other pneumoconiosis,DALYs annual % change,0.013494832,,
+United States,2017,All ages,Both,Asthma,Percent of total DALYs,0.007299303,0.005738658,0.009122942
+United States,1990 - 2017,All ages,Both,Asthma,DALYs annual % change,-0.005976947,,
+United States,2017,All ages,Both,Interstitial lung disease and pulmonary sarcoidosis,Percent of total DALYs,0.003783547,0.002892715,0.004354595
+United States,1990 - 2017,All ages,Both,Interstitial lung disease and pulmonary sarcoidosis,DALYs annual % change,0.019329914,,
+United States,2017,All ages,Both,Other chronic respiratory diseases,Percent of total DALYs,0.001500287,0.001370749,0.001620727
+United States,1990 - 2017,All ages,Both,Other chronic respiratory diseases,DALYs annual % change,0.016922887,,
+United States,2017,All ages,Both,Cirrhosis and other chronic liver diseases due to hepatitis B,Percent of total DALYs,0.000989751,0.000861533,0.001128315
+United States,1990 - 2017,All ages,Both,Cirrhosis and other chronic liver diseases due to hepatitis B,DALYs annual % change,0.001588403,,
+United States,2017,All ages,Both,Cirrhosis and other chronic liver diseases due to hepatitis C,Percent of total DALYs,0.006251026,0.005540977,0.007000794
+United States,1990 - 2017,All ages,Both,Cirrhosis and other chronic liver diseases due to hepatitis C,DALYs annual % change,0.008696727,,
+United States,2017,All ages,Both,Cirrhosis and other chronic liver diseases due to alcohol use,Percent of total DALYs,0.004960275,0.00434231,0.005608392
+United States,1990 - 2017,All ages,Both,Cirrhosis and other chronic liver diseases due to alcohol use,DALYs annual % change,0.009261685,,
+United States,2017,All ages,Both,Cirrhosis and other chronic liver diseases due to other causes,Percent of total DALYs,0.00311189,0.002702198,0.003566713
+United States,1990 - 2017,All ages,Both,Cirrhosis and other chronic liver diseases due to other causes,DALYs annual % change,0.007991082,,
+United States,2017,All ages,Both,Peptic ulcer disease,Percent of total DALYs,0.001311357,0.001216146,0.001412309
+United States,1990 - 2017,All ages,Both,Peptic ulcer disease,DALYs annual % change,-0.018360919,,
+United States,2017,All ages,Both,Gastritis and duodenitis,Percent of total DALYs,0.001732362,0.00126022,0.002270927
+United States,1990 - 2017,All ages,Both,Gastritis and duodenitis,DALYs annual % change,-0.00358726,,
+United States,2017,All ages,Both,Appendicitis,Percent of total DALYs,0.00020169,0.0001838,0.000219847
+United States,1990 - 2017,All ages,Both,Appendicitis,DALYs annual % change,-0.007799488,,
+United States,2017,All ages,Both,Paralytic ileus and intestinal obstruction,Percent of total DALYs,0.001497561,0.001257763,0.001818641
+United States,1990 - 2017,All ages,Both,Paralytic ileus and intestinal obstruction,DALYs annual % change,0.004535689,,
+United States,2017,All ages,Both,"Inguinal, femoral, and abdominal hernia",Percent of total DALYs,0.000649666,0.000569539,0.000735627
+United States,1990 - 2017,All ages,Both,"Inguinal, femoral, and abdominal hernia",DALYs annual % change,0.002934957,,
+United States,2017,All ages,Both,Inflammatory bowel disease,Percent of total DALYs,0.003456518,0.002851415,0.004047678
+United States,1990 - 2017,All ages,Both,Inflammatory bowel disease,DALYs annual % change,0.011907203,,
+United States,2017,All ages,Both,Vascular intestinal disorders,Percent of total DALYs,0.001483924,0.001312467,0.001706724
+United States,1990 - 2017,All ages,Both,Vascular intestinal disorders,DALYs annual % change,0.000894952,,
+United States,2017,All ages,Both,Gallbladder and biliary diseases,Percent of total DALYs,0.000826999,0.000734587,0.000935827
+United States,1990 - 2017,All ages,Both,Gallbladder and biliary diseases,DALYs annual % change,0.002187097,,
+United States,2017,All ages,Both,Pancreatitis,Percent of total DALYs,0.001257653,0.001114623,0.001429891
+United States,1990 - 2017,All ages,Both,Pancreatitis,DALYs annual % change,0.002919745,,
+United States,2017,All ages,Both,Gastroesophageal reflux disease,Percent of total DALYs,0.004250569,0.002362343,0.006966508
+United States,1990 - 2017,All ages,Both,Gastroesophageal reflux disease,DALYs annual % change,0.005474201,,
+United States,2017,All ages,Both,Other digestive diseases,Percent of total DALYs,0.001759297,0.00164932,0.001877539
+United States,1990 - 2017,All ages,Both,Other digestive diseases,DALYs annual % change,0.00142053,,
+United States,2017,All ages,Both,Alzheimer's disease and other dementias,Percent of total DALYs,0.025449352,0.023290964,0.02760785
+United States,1990 - 2017,All ages,Both,Alzheimer's disease and other dementias,DALYs annual % change,0.011059876,,
+United States,2017,All ages,Both,Parkinson's disease,Percent of total DALYs,0.004105281,0.003431031,0.004506555
+United States,1990 - 2017,All ages,Both,Parkinson's disease,DALYs annual % change,0.01683547,,
+United States,2017,All ages,Both,Epilepsy,Percent of total DALYs,0.004127565,0.002621485,0.006086948
+United States,1990 - 2017,All ages,Both,Epilepsy,DALYs annual % change,0.002419186,,
+United States,2017,All ages,Both,Multiple sclerosis,Percent of total DALYs,0.002029753,0.001736984,0.002248033
+United States,1990 - 2017,All ages,Both,Multiple sclerosis,DALYs annual % change,0.011875599,,
+United States,2017,All ages,Both,Migraine,Percent of total DALYs,0.02380206,0.016535779,0.032347005
+United States,1990 - 2017,All ages,Both,Migraine,DALYs annual % change,0.00030975,,
+United States,2017,All ages,Both,Tension-type headache,Percent of total DALYs,0.003455932,0.002095006,0.005210155
+United States,1990 - 2017,All ages,Both,Tension-type headache,DALYs annual % change,0.001580968,,
+United States,2017,All ages,Both,Motor neuron disease,Percent of total DALYs,0.001986151,0.001738591,0.002237102
+United States,1990 - 2017,All ages,Both,Motor neuron disease,DALYs annual % change,0.016328874,,
+United States,2017,All ages,Both,Other neurological disorders,Percent of total DALYs,0.002407676,0.002098885,0.002811608
+United States,1990 - 2017,All ages,Both,Other neurological disorders,DALYs annual % change,0.004267881,,
+United States,2017,All ages,Both,Schizophrenia,Percent of total DALYs,0.007137229,0.005595293,0.008594721
+United States,1990 - 2017,All ages,Both,Schizophrenia,DALYs annual % change,0.000335611,,
+United States,2017,All ages,Both,Alcohol use disorders,Percent of total DALYs,0.010962564,0.009827751,0.012276604
+United States,1990 - 2017,All ages,Both,Alcohol use disorders,DALYs annual % change,0.004070251,,
+United States,2017,All ages,Both,Opioid use disorders,Percent of total DALYs,0.039465426,0.0343647,0.04484726
+United States,1990 - 2017,All ages,Both,Opioid use disorders,DALYs annual % change,0.044626518,,
+United States,2017,All ages,Both,Cocaine use disorders,Percent of total DALYs,0.004229094,0.003479015,0.005081513
+United States,1990 - 2017,All ages,Both,Cocaine use disorders,DALYs annual % change,0.019679264,,
+United States,2017,All ages,Both,Amphetamine use disorders,Percent of total DALYs,0.002093341,0.001446711,0.002716191
+United States,1990 - 2017,All ages,Both,Amphetamine use disorders,DALYs annual % change,0.023252676,,
+United States,2017,All ages,Both,Cannabis use disorders,Percent of total DALYs,0.000720284,0.00048705,0.001013033
+United States,1990 - 2017,All ages,Both,Cannabis use disorders,DALYs annual % change,0.001610001,,
+United States,2017,All ages,Both,Other drug use disorders,Percent of total DALYs,0.008559728,0.007454568,0.009888196
+United States,1990 - 2017,All ages,Both,Other drug use disorders,DALYs annual % change,0.032739999,,
+United States,2017,All ages,Both,Major depressive disorder,Percent of total DALYs,0.019154875,0.014469579,0.024105467
+United States,1990 - 2017,All ages,Both,Major depressive disorder,DALYs annual % change,0.002560774,,
+United States,2017,All ages,Both,Dysthymia,Percent of total DALYs,0.00589262,0.00436446,0.00776796
+United States,1990 - 2017,All ages,Both,Dysthymia,DALYs annual % change,-0.001119272,,
+United States,2017,All ages,Both,Bipolar disorder,Percent of total DALYs,0.004107455,0.00281893,0.005784377
+United States,1990 - 2017,All ages,Both,Bipolar disorder,DALYs annual % change,6.18971E-05,,
+United States,2017,All ages,Both,Anxiety disorders,Percent of total DALYs,0.019517652,0.015273276,0.024292332
+United States,1990 - 2017,All ages,Both,Anxiety disorders,DALYs annual % change,0.000286753,,
+United States,2017,All ages,Both,Anorexia nervosa,Percent of total DALYs,0.000717868,0.000487716,0.000993319
+United States,1990 - 2017,All ages,Both,Anorexia nervosa,DALYs annual % change,-0.002180276,,
+United States,2017,All ages,Both,Bulimia nervosa,Percent of total DALYs,0.002130525,0.001470088,0.002977148
+United States,1990 - 2017,All ages,Both,Bulimia nervosa,DALYs annual % change,-0.002799578,,
+United States,2017,All ages,Both,Autism spectrum disorders,Percent of total DALYs,0.003089124,0.002366993,0.003857136
+United States,1990 - 2017,All ages,Both,Autism spectrum disorders,DALYs annual % change,-9.02959E-05,,
+United States,2017,All ages,Both,Attention-deficit/hyperactivity disorder,Percent of total DALYs,0.000378245,0.00024004,0.000565664
+United States,1990 - 2017,All ages,Both,Attention-deficit/hyperactivity disorder,DALYs annual % change,-0.001465596,,
+United States,2017,All ages,Both,Conduct disorder,Percent of total DALYs,0.00270905,0.001785528,0.003944785
+United States,1990 - 2017,All ages,Both,Conduct disorder,DALYs annual % change,-0.0027597,,
+United States,2017,All ages,Both,Idiopathic developmental intellectual disability,Percent of total DALYs,0.000722365,0.000277269,0.001236109
+United States,1990 - 2017,All ages,Both,Idiopathic developmental intellectual disability,DALYs annual % change,-0.006739661,,
+United States,2017,All ages,Both,Other mental disorders,Percent of total DALYs,0.005858637,0.004227387,0.007594129
+United States,1990 - 2017,All ages,Both,Other mental disorders,DALYs annual % change,0.001444495,,
+United States,2017,All ages,Both,Acute glomerulonephritis,Percent of total DALYs,3.31011E-05,2.95336E-05,3.71212E-05
+United States,1990 - 2017,All ages,Both,Acute glomerulonephritis,DALYs annual % change,0.013607405,,
+United States,2017,All ages,Both,Chronic kidney disease due to hypertension,Percent of total DALYs,0.005695191,0.004934219,0.00651772
+United States,1990 - 2017,All ages,Both,Chronic kidney disease due to hypertension,DALYs annual % change,0.020167164,,
+United States,2017,All ages,Both,Chronic kidney disease due to glomerulonephritis,Percent of total DALYs,0.00252557,0.002162098,0.002949525
+United States,1990 - 2017,All ages,Both,Chronic kidney disease due to glomerulonephritis,DALYs annual % change,0.010392175,,
+United States,2017,All ages,Both,Chronic kidney disease due to other and unspecified causes,Percent of total DALYs,0.003916392,0.003460584,0.004429771
+United States,1990 - 2017,All ages,Both,Chronic kidney disease due to other and unspecified causes,DALYs annual % change,0.011967321,,
+United States,2017,All ages,Both,Urinary tract infections,Percent of total DALYs,0.002374281,0.002123891,0.002648
+United States,1990 - 2017,All ages,Both,Urinary tract infections,DALYs annual % change,0.011285537,,
+United States,2017,All ages,Both,Urolithiasis,Percent of total DALYs,0.000244424,0.000209935,0.000286446
+United States,1990 - 2017,All ages,Both,Urolithiasis,DALYs annual % change,0.004584847,,
+United States,2017,All ages,Both,Benign prostatic hyperplasia,Percent of total DALYs,0.001590047,0.001133913,0.002066683
+United States,1990 - 2017,All ages,Both,Benign prostatic hyperplasia,DALYs annual % change,0.001888818,,
+United States,2017,All ages,Both,Male infertility,Percent of total DALYs,3.91467E-05,1.67008E-05,8.09618E-05
+United States,1990 - 2017,All ages,Both,Male infertility,DALYs annual % change,-0.006950843,,
+United States,2017,All ages,Both,Other urinary diseases,Percent of total DALYs,0.000264081,0.000229736,0.000348206
+United States,1990 - 2017,All ages,Both,Other urinary diseases,DALYs annual % change,-0.012075548,,
+United States,2017,All ages,Both,Uterine fibroids,Percent of total DALYs,0.000503555,0.000293375,0.000785024
+United States,1990 - 2017,All ages,Both,Uterine fibroids,DALYs annual % change,0.001581084,,
+United States,2017,All ages,Both,Polycystic ovarian syndrome,Percent of total DALYs,0.000138287,6.65328E-05,0.000252747
+United States,1990 - 2017,All ages,Both,Polycystic ovarian syndrome,DALYs annual % change,-0.002977339,,
+United States,2017,All ages,Both,Female infertility,Percent of total DALYs,1.91812E-05,4.58194E-06,4.73077E-05
+United States,1990 - 2017,All ages,Both,Female infertility,DALYs annual % change,-0.006238205,,
+United States,2017,All ages,Both,Endometriosis,Percent of total DALYs,0.002059684,0.001559011,0.002650031
+United States,1990 - 2017,All ages,Both,Endometriosis,DALYs annual % change,-0.004720986,,
+United States,2017,All ages,Both,Genital prolapse,Percent of total DALYs,0.000135981,6.87054E-05,0.000244345
+United States,1990 - 2017,All ages,Both,Genital prolapse,DALYs annual % change,0.000200139,,
+United States,2017,All ages,Both,Premenstrual syndrome,Percent of total DALYs,0.001660063,0.001162167,0.002324181
+United States,1990 - 2017,All ages,Both,Premenstrual syndrome,DALYs annual % change,-0.004184852,,
+United States,2017,All ages,Both,Other gynecological diseases,Percent of total DALYs,0.000866809,0.000662206,0.001090114
+United States,1990 - 2017,All ages,Both,Other gynecological diseases,DALYs annual % change,0.009608981,,
+United States,2017,All ages,Both,Thalassemias,Percent of total DALYs,6.9721E-05,5.75689E-05,8.84257E-05
+United States,1990 - 2017,All ages,Both,Thalassemias,DALYs annual % change,-0.012573708,,
+United States,2017,All ages,Both,Sickle cell disorders,Percent of total DALYs,7.82749E-05,6.48233E-05,9.46311E-05
+United States,1990 - 2017,All ages,Both,Sickle cell disorders,DALYs annual % change,-0.027675548,,
+United States,2017,All ages,Both,G6PD deficiency,Percent of total DALYs,0.000208929,0.000167547,0.000250593
+United States,1990 - 2017,All ages,Both,G6PD deficiency,DALYs annual % change,0.002474434,,
+United States,2017,All ages,Both,Other hemoglobinopathies and hemolytic anemias,Percent of total DALYs,0.000517277,0.000449413,0.000605793
+United States,1990 - 2017,All ages,Both,Other hemoglobinopathies and hemolytic anemias,DALYs annual % change,-0.006606645,,
+United States,2017,All ages,Both,"Endocrine, metabolic, blood, and immune disorders",Percent of total DALYs,0.007322222,0.005350244,0.00827587
+United States,1990 - 2017,All ages,Both,"Endocrine, metabolic, blood, and immune disorders",DALYs annual % change,0.019609869,,
+United States,2017,All ages,Both,Rheumatoid arthritis,Percent of total DALYs,0.00278157,0.002225478,0.003332327
+United States,1990 - 2017,All ages,Both,Rheumatoid arthritis,DALYs annual % change,0.011948811,,
+United States,2017,All ages,Both,Osteoarthritis,Percent of total DALYs,0.009880131,0.005418806,0.019069383
+United States,1990 - 2017,All ages,Both,Osteoarthritis,DALYs annual % change,0.017203502,,
+United States,2017,All ages,Both,Low back pain,Percent of total DALYs,0.042965964,0.034976458,0.050943454
+United States,1990 - 2017,All ages,Both,Low back pain,DALYs annual % change,0.001526281,,
+United States,2017,All ages,Both,Neck pain,Percent of total DALYs,0.018689818,0.014785117,0.023092047
+United States,1990 - 2017,All ages,Both,Neck pain,DALYs annual % change,0.007682963,,
+United States,2017,All ages,Both,Gout,Percent of total DALYs,0.001462676,0.001111942,0.001853232
+United States,1990 - 2017,All ages,Both,Gout,DALYs annual % change,0.018460852,,
+United States,2017,All ages,Both,Other musculoskeletal disorders,Percent of total DALYs,0.020038708,0.015517368,0.024987669
+United States,1990 - 2017,All ages,Both,Other musculoskeletal disorders,DALYs annual % change,0.005304544,,
+United States,2017,All ages,Both,Neural tube defects,Percent of total DALYs,0.00065239,0.000534918,0.000754106
+United States,1990 - 2017,All ages,Both,Neural tube defects,DALYs annual % change,-0.015369618,,
+United States,2017,All ages,Both,Congenital heart anomalies,Percent of total DALYs,0.002458942,0.002073551,0.003028389
+United States,1990 - 2017,All ages,Both,Congenital heart anomalies,DALYs annual % change,-0.032953904,,
+United States,2017,All ages,Both,Orofacial clefts,Percent of total DALYs,9.25189E-05,6.83079E-05,0.000120828
+United States,1990 - 2017,All ages,Both,Orofacial clefts,DALYs annual % change,-0.006190833,,
+United States,2017,All ages,Both,Down syndrome,Percent of total DALYs,0.000691033,0.000568129,0.000758773
+United States,1990 - 2017,All ages,Both,Down syndrome,DALYs annual % change,0.01201294,,
+United States,2017,All ages,Both,Turner syndrome,Percent of total DALYs,7.51366E-06,3.77963E-06,1.24477E-05
+United States,1990 - 2017,All ages,Both,Turner syndrome,DALYs annual % change,-0.006594942,,
+United States,2017,All ages,Both,Klinefelter syndrome,Percent of total DALYs,3.3333E-06,1.61165E-06,6.16524E-06
+United States,1990 - 2017,All ages,Both,Klinefelter syndrome,DALYs annual % change,-0.008717086,,
+United States,2017,All ages,Both,Other chromosomal abnormalities,Percent of total DALYs,0.001125172,0.000781436,0.001411076
+United States,1990 - 2017,All ages,Both,Other chromosomal abnormalities,DALYs annual % change,-0.004362966,,
+United States,2017,All ages,Both,Congenital musculoskeletal and limb anomalies,Percent of total DALYs,0.002151312,0.001702791,0.002613916
+United States,1990 - 2017,All ages,Both,Congenital musculoskeletal and limb anomalies,DALYs annual % change,-0.006846414,,
+United States,2017,All ages,Both,Urogenital congenital anomalies,Percent of total DALYs,0.000461915,0.000373678,0.000570419
+United States,1990 - 2017,All ages,Both,Urogenital congenital anomalies,DALYs annual % change,-0.009959105,,
+United States,2017,All ages,Both,Digestive congenital anomalies,Percent of total DALYs,0.000984663,0.000816275,0.001167997
+United States,1990 - 2017,All ages,Both,Digestive congenital anomalies,DALYs annual % change,-0.010338645,,
+United States,2017,All ages,Both,Other congenital birth defects,Percent of total DALYs,0.00224921,0.002007076,0.002703264
+United States,1990 - 2017,All ages,Both,Other congenital birth defects,DALYs annual % change,-0.020879293,,
+United States,2017,All ages,Both,Psoriasis,Percent of total DALYs,0.008280325,0.006643317,0.010157217
+United States,1990 - 2017,All ages,Both,Psoriasis,DALYs annual % change,0.009933453,,
+United States,2017,All ages,Both,Cellulitis,Percent of total DALYs,0.000672239,0.000422842,0.000907977
+United States,1990 - 2017,All ages,Both,Cellulitis,DALYs annual % change,0.018411449,,
+United States,2017,All ages,Both,Pyoderma,Percent of total DALYs,0.000459295,0.000222927,0.00077631
+United States,1990 - 2017,All ages,Both,Pyoderma,DALYs annual % change,0.014621705,,
+United States,2017,All ages,Both,Scabies,Percent of total DALYs,0.000399082,0.000237965,0.000608686
+United States,1990 - 2017,All ages,Both,Scabies,DALYs annual % change,0.005698903,,
+United States,2017,All ages,Both,Fungal skin diseases,Percent of total DALYs,0.00055044,0.000225494,0.001123074
+United States,1990 - 2017,All ages,Both,Fungal skin diseases,DALYs annual % change,0.002592305,,
+United States,2017,All ages,Both,Viral skin diseases,Percent of total DALYs,0.002509423,0.001770699,0.003489239
+United States,1990 - 2017,All ages,Both,Viral skin diseases,DALYs annual % change,-0.002358264,,
+United States,2017,All ages,Both,Acne vulgaris,Percent of total DALYs,0.002501179,0.00158955,0.003727404
+United States,1990 - 2017,All ages,Both,Acne vulgaris,DALYs annual % change,-0.000983346,,
+United States,2017,All ages,Both,Alopecia areata,Percent of total DALYs,0.000444109,0.000311262,0.000609695
+United States,1990 - 2017,All ages,Both,Alopecia areata,DALYs annual % change,0.00073869,,
+United States,2017,All ages,Both,Pruritus,Percent of total DALYs,0.000297,0.000148028,0.000527663
+United States,1990 - 2017,All ages,Both,Pruritus,DALYs annual % change,0.00347995,,
+United States,2017,All ages,Both,Urticaria,Percent of total DALYs,0.001484581,0.001111122,0.001892297
+United States,1990 - 2017,All ages,Both,Urticaria,DALYs annual % change,-0.002166435,,
+United States,2017,All ages,Both,Decubitus ulcer,Percent of total DALYs,0.000457153,0.000353709,0.000713225
+United States,1990 - 2017,All ages,Both,Decubitus ulcer,DALYs annual % change,0.001880076,,
+United States,2017,All ages,Both,Other skin and subcutaneous diseases,Percent of total DALYs,0.002289159,0.00120049,0.004013086
+United States,1990 - 2017,All ages,Both,Other skin and subcutaneous diseases,DALYs annual % change,0.008301311,,
+United States,2017,All ages,Both,Glaucoma,Percent of total DALYs,0.000118921,9.10291E-05,0.000149437
+United States,1990 - 2017,All ages,Both,Glaucoma,DALYs annual % change,0.009089349,,
+United States,2017,All ages,Both,Cataract,Percent of total DALYs,0.000562861,0.00043411,0.000695905
+United States,1990 - 2017,All ages,Both,Cataract,DALYs annual % change,0.007411111,,
+United States,2017,All ages,Both,Age-related macular degeneration,Percent of total DALYs,9.59342E-05,7.40599E-05,0.000119267
+United States,1990 - 2017,All ages,Both,Age-related macular degeneration,DALYs annual % change,0.010859726,,
+United States,2017,All ages,Both,Age-related and other hearing loss,Percent of total DALYs,0.017985553,0.013844157,0.023054737
+United States,1990 - 2017,All ages,Both,Age-related and other hearing loss,DALYs annual % change,0.007671783,,
+United States,2017,All ages,Both,Other vision loss,Percent of total DALYs,0.000450891,0.000351547,0.000553336
+United States,1990 - 2017,All ages,Both,Other vision loss,DALYs annual % change,0.005274015,,
+United States,2017,All ages,Both,Other sense organ diseases,Percent of total DALYs,0.001374557,0.000942333,0.001800363
+United States,1990 - 2017,All ages,Both,Other sense organ diseases,DALYs annual % change,0.006353929,,
+United States,2017,All ages,Both,Caries of deciduous teeth,Percent of total DALYs,4.01639E-05,1.71231E-05,8.27926E-05
+United States,1990 - 2017,All ages,Both,Caries of deciduous teeth,DALYs annual % change,-0.004919825,,
+United States,2017,All ages,Both,Caries of permanent teeth,Percent of total DALYs,0.000785676,0.000355156,0.001473455
+United States,1990 - 2017,All ages,Both,Caries of permanent teeth,DALYs annual % change,-0.002859617,,
+United States,2017,All ages,Both,Periodontal diseases,Percent of total DALYs,0.001286824,0.000526848,0.002581028
+United States,1990 - 2017,All ages,Both,Periodontal diseases,DALYs annual % change,0.003150992,,
+United States,2017,All ages,Both,Edentulism and severe tooth loss,Percent of total DALYs,0.005298021,0.00382131,0.006904399
+United States,1990 - 2017,All ages,Both,Edentulism and severe tooth loss,DALYs annual % change,0.002464512,,
+United States,2017,All ages,Both,Other oral disorders,Percent of total DALYs,0.001782971,0.001183258,0.002456597
+United States,1990 - 2017,All ages,Both,Other oral disorders,DALYs annual % change,0.001132673,,
+United States,2017,All ages,Both,Sudden infant death syndrome,Percent of total DALYs,0.00156725,0.001251374,0.002324088
+United States,1990 - 2017,All ages,Both,Sudden infant death syndrome,DALYs annual % change,-0.047943924,,
+United States,2017,All ages,Both,Pedestrian road injuries,Percent of total DALYs,0.004077485,0.003783188,0.004428835
+United States,1990 - 2017,All ages,Both,Pedestrian road injuries,DALYs annual % change,-0.016968397,,
+United States,2017,All ages,Both,Cyclist road injuries,Percent of total DALYs,0.001183055,0.001065912,0.001321648
+United States,1990 - 2017,All ages,Both,Cyclist road injuries,DALYs annual % change,-0.013867507,,
+United States,2017,All ages,Both,Motorcyclist road injuries,Percent of total DALYs,0.003310361,0.003080022,0.003656401
+United States,1990 - 2017,All ages,Both,Motorcyclist road injuries,DALYs annual % change,-0.001731602,,
+United States,2017,All ages,Both,Motor vehicle road injuries,Percent of total DALYs,0.016897603,0.015534794,0.018250687
+United States,1990 - 2017,All ages,Both,Motor vehicle road injuries,DALYs annual % change,-0.017754986,,
+United States,2017,All ages,Both,Other road injuries,Percent of total DALYs,8.3967E-05,7.76077E-05,9.17495E-05
+United States,1990 - 2017,All ages,Both,Other road injuries,DALYs annual % change,-0.008414513,,
+United States,2017,All ages,Both,Other transport injuries,Percent of total DALYs,0.002496556,0.002294635,0.002723701
+United States,1990 - 2017,All ages,Both,Other transport injuries,DALYs annual % change,-0.023777997,,
+United States,2017,All ages,Both,Falls,Percent of total DALYs,0.019367432,0.016858726,0.0222069
+United States,1990 - 2017,All ages,Both,Falls,DALYs annual % change,-0.000793619,,
+United States,2017,All ages,Both,Drowning,Percent of total DALYs,0.002047296,0.001814809,0.002310179
+United States,1990 - 2017,All ages,Both,Drowning,DALYs annual % change,-0.018898522,,
+United States,2017,All ages,Both,"Fire, heat, and hot substances",Percent of total DALYs,0.002552487,0.002115939,0.003158659
+United States,1990 - 2017,All ages,Both,"Fire, heat, and hot substances",DALYs annual % change,-0.024397919,,
+United States,2017,All ages,Both,Poisoning by carbon monoxide,Percent of total DALYs,0.000468222,0.00042156,0.000517768
+United States,1990 - 2017,All ages,Both,Poisoning by carbon monoxide,DALYs annual % change,-0.003151453,,
+United States,2017,All ages,Both,Poisoning by other means,Percent of total DALYs,0.000587127,0.00052174,0.000656298
+United States,1990 - 2017,All ages,Both,Poisoning by other means,DALYs annual % change,-0.006468193,,
+United States,2017,All ages,Both,Unintentional firearm injuries,Percent of total DALYs,0.000511892,0.000418989,0.000588139
+United States,1990 - 2017,All ages,Both,Unintentional firearm injuries,DALYs annual % change,-0.038762703,,
+United States,2017,All ages,Both,Other exposure to mechanical forces,Percent of total DALYs,0.004157994,0.003345122,0.005372577
+United States,1990 - 2017,All ages,Both,Other exposure to mechanical forces,DALYs annual % change,-0.018759836,,
+United States,2017,All ages,Both,Adverse effects of medical treatment,Percent of total DALYs,0.002336496,0.00199717,0.002795981
+United States,1990 - 2017,All ages,Both,Adverse effects of medical treatment,DALYs annual % change,0.01029558,,
+United States,2017,All ages,Both,Venomous animal contact,Percent of total DALYs,0.000192604,0.000152693,0.000241895
+United States,1990 - 2017,All ages,Both,Venomous animal contact,DALYs annual % change,-0.016918368,,
+United States,2017,All ages,Both,Non-venomous animal contact,Percent of total DALYs,0.00029252,0.000200904,0.000435667
+United States,1990 - 2017,All ages,Both,Non-venomous animal contact,DALYs annual % change,-0.010832252,,
+United States,2017,All ages,Both,Pulmonary aspiration and foreign body in airway,Percent of total DALYs,0.002431268,0.00214807,0.002730539
+United States,1990 - 2017,All ages,Both,Pulmonary aspiration and foreign body in airway,DALYs annual % change,0.002172035,,
+United States,2017,All ages,Both,Foreign body in eyes,Percent of total DALYs,0.000240401,0.00015419,0.000346046
+United States,1990 - 2017,All ages,Both,Foreign body in eyes,DALYs annual % change,-0.018147132,,
+United States,2017,All ages,Both,Foreign body in other body part,Percent of total DALYs,0.000166322,0.000141945,0.000192685
+United States,1990 - 2017,All ages,Both,Foreign body in other body part,DALYs annual % change,-0.030943389,,
+United States,2017,All ages,Both,Other unintentional injuries,Percent of total DALYs,0.002244185,0.001821091,0.002795737
+United States,1990 - 2017,All ages,Both,Other unintentional injuries,DALYs annual % change,-0.014933933,,
+United States,2017,All ages,Both,Self-harm by firearm,Percent of total DALYs,0.009540475,0.007981699,0.011899381
+United States,1990 - 2017,All ages,Both,Self-harm by firearm,DALYs annual % change,-0.003916675,,
+United States,2017,All ages,Both,Self-harm by other specified means,Percent of total DALYs,0.010924095,0.008871064,0.012791706
+United States,1990 - 2017,All ages,Both,Self-harm by other specified means,DALYs annual % change,0.007180465,,
+United States,2017,All ages,Both,Physical violence by firearm,Percent of total DALYs,0.008014643,0.006902256,0.009073811
+United States,1990 - 2017,All ages,Both,Physical violence by firearm,DALYs annual % change,-0.01518322,,
+United States,2017,All ages,Both,Physical violence by sharp object,Percent of total DALYs,0.001494187,0.001315386,0.001822855
+United States,1990 - 2017,All ages,Both,Physical violence by sharp object,DALYs annual % change,-0.028100857,,
+United States,2017,All ages,Both,Physical violence by other means,Percent of total DALYs,0.003053346,0.002763446,0.003697295
+United States,1990 - 2017,All ages,Both,Physical violence by other means,DALYs annual % change,-0.016669712,,
+United States,2017,All ages,Both,Exposure to forces of nature,Percent of total DALYs,6.0002E-05,5.26931E-05,6.77947E-05
+United States,1990 - 2017,All ages,Both,Exposure to forces of nature,DALYs annual % change,-0.036130433,,
+United States,2017,All ages,Both,Maternal deaths aggravated by HIV/AIDS,Percent of total DALYs,1.20436E-06,5.42E-07,2.12678E-06
+United States,1990 - 2017,All ages,Both,Maternal deaths aggravated by HIV/AIDS,DALYs annual % change,0.028571243,,
+United States,2017,All ages,Both,Thalassemias trait,Percent of total DALYs,0.000200564,0.000130702,0.000286279
+United States,1990 - 2017,All ages,Both,Thalassemias trait,DALYs annual % change,-0.011103957,,
+United States,2017,All ages,Both,Sickle cell trait,Percent of total DALYs,7.43067E-05,4.65494E-05,0.000109214
+United States,1990 - 2017,All ages,Both,Sickle cell trait,DALYs annual % change,-0.030796486,,
+United States,2017,All ages,Both,G6PD trait,Percent of total DALYs,1.86E-07,1.13E-07,3.20E-07
+United States,1990 - 2017,All ages,Both,G6PD trait,DALYs annual % change,-0.011159864,,
+United States,2017,All ages,Both,Environmental heat and cold exposure,Percent of total DALYs,0.000705659,0.000633393,0.00079917
+United States,1990 - 2017,All ages,Both,Environmental heat and cold exposure,DALYs annual % change,-0.003701437,,
+United States,2017,All ages,Both,Ebola,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Ebola,DALYs annual % change,0,,
+United States,2017,All ages,Both,Acute lymphoid leukemia,Percent of total DALYs,0.00068544,0.000599272,0.000779984
+United States,1990 - 2017,All ages,Both,Acute lymphoid leukemia,DALYs annual % change,-0.013854294,,
+United States,2017,All ages,Both,Chronic lymphoid leukemia,Percent of total DALYs,0.000894535,0.000800094,0.001000192
+United States,1990 - 2017,All ages,Both,Chronic lymphoid leukemia,DALYs annual % change,-0.001749887,,
+United States,2017,All ages,Both,Acute myeloid leukemia,Percent of total DALYs,0.002578292,0.002253599,0.002943545
+United States,1990 - 2017,All ages,Both,Acute myeloid leukemia,DALYs annual % change,0.006915888,,
+United States,2017,All ages,Both,Chronic myeloid leukemia,Percent of total DALYs,0.000279803,0.000246715,0.000316335
+United States,1990 - 2017,All ages,Both,Chronic myeloid leukemia,DALYs annual % change,-0.041380599,,
+United States,2017,All ages,Both,Non-melanoma skin cancer (squamous-cell carcinoma),Percent of total DALYs,0.001323354,0.000997156,0.00176752
+United States,1990 - 2017,All ages,Both,Non-melanoma skin cancer (squamous-cell carcinoma),DALYs annual % change,0.020541201,,
+United States,2017,All ages,Both,Non-melanoma skin cancer (basal-cell carcinoma),Percent of total DALYs,1.35685E-05,5.16111E-06,2.82193E-05
+United States,1990 - 2017,All ages,Both,Non-melanoma skin cancer (basal-cell carcinoma),DALYs annual % change,0.010655219,,
+United States,2017,All ages,Both,Executions and police conflict,Percent of total DALYs,0.000379605,0.000328053,0.000445412
+United States,1990 - 2017,All ages,Both,Executions and police conflict,DALYs annual % change,0.015238067,,
+United States,2017,All ages,Both,Drug-susceptible tuberculosis,Percent of total DALYs,0.00021812,0.000197026,0.000240281
+United States,1990 - 2017,All ages,Both,Drug-susceptible tuberculosis,DALYs annual % change,-0.04298705,,
+United States,2017,All ages,Both,Zika virus,Percent of total DALYs,1.60E-07,6.79E-08,3.81E-07
+United States,1990 - 2017,All ages,Both,Zika virus,DALYs annual % change,0,,
+United States,2017,All ages,Both,Guinea worm disease,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Guinea worm disease,DALYs annual % change,0,,
+United States,2017,All ages,Both,Alcoholic cardiomyopathy,Percent of total DALYs,0.001625804,0.001326251,0.00190198
+United States,1990 - 2017,All ages,Both,Alcoholic cardiomyopathy,DALYs annual % change,-0.013472656,,
+United States,2017,All ages,Both,Sexual violence,Percent of total DALYs,0.000410357,0.000265674,0.000596423
+United States,1990 - 2017,All ages,Both,Sexual violence,DALYs annual % change,-0.001916717,,
+United States,2017,All ages,Both,Myocarditis,Percent of total DALYs,0.000475184,0.000346091,0.00057025
+United States,1990 - 2017,All ages,Both,Myocarditis,DALYs annual % change,0.011343429,,
+United States,2017,All ages,Both,Other leukemia,Percent of total DALYs,0.001459158,0.001284952,0.001651209
+United States,1990 - 2017,All ages,Both,Other leukemia,DALYs annual % change,-0.011749868,,
+United States,2017,All ages,Both,Other cardiomyopathy,Percent of total DALYs,0.004885489,0.004258425,0.005957425
+United States,1990 - 2017,All ages,Both,Other cardiomyopathy,DALYs annual % change,-0.005069142,,
+United States,2017,All ages,Both,Conflict and terrorism,Percent of total DALYs,4.15557E-05,2.81886E-05,6.57383E-05
+United States,1990 - 2017,All ages,Both,Conflict and terrorism,DALYs annual % change,0.039248785,,
+United States,2017,All ages,Both,Multidrug-resistant tuberculosis without extensive drug resistance,Percent of total DALYs,6.49482E-06,3.98367E-06,9.84694E-06
+United States,1990 - 2017,All ages,Both,Multidrug-resistant tuberculosis without extensive drug resistance,DALYs annual % change,-0.076862739,,
+United States,2017,All ages,Both,Extensively drug-resistant tuberculosis,Percent of total DALYs,2.09022E-06,1.25231E-06,3.18822E-06
+United States,1990 - 2017,All ages,Both,Extensively drug-resistant tuberculosis,DALYs annual % change,0,,
+United States,2017,All ages,Both,HIV/AIDS - Drug-susceptible Tuberculosis,Percent of total DALYs,5.58802E-05,3.50898E-05,8.57891E-05
+United States,1990 - 2017,All ages,Both,HIV/AIDS - Drug-susceptible Tuberculosis,DALYs annual % change,-0.078101402,,
+United States,2017,All ages,Both,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,Percent of total DALYs,2.09631E-06,1.05449E-06,3.66712E-06
+United States,1990 - 2017,All ages,Both,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,DALYs annual % change,-0.109616341,,
+United States,2017,All ages,Both,HIV/AIDS - Extensively drug-resistant Tuberculosis,Percent of total DALYs,6.87E-07,3.45E-07,1.19949E-06
+United States,1990 - 2017,All ages,Both,HIV/AIDS - Extensively drug-resistant Tuberculosis,DALYs annual % change,0,,
+United States,2017,All ages,Both,Latent tuberculosis infection,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Latent tuberculosis infection,DALYs annual % change,0,,
+United States,2017,All ages,Both,Invasive Non-typhoidal Salmonella (iNTS),Percent of total DALYs,0.000109705,5.39045E-05,0.000200109
+United States,1990 - 2017,All ages,Both,Invasive Non-typhoidal Salmonella (iNTS),DALYs annual % change,-0.012992098,,
+United States,2017,All ages,Both,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",Percent of total DALYs,0.002282536,0.001627185,0.003058568
+United States,1990 - 2017,All ages,Both,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",DALYs annual % change,0.016242428,,
+United States,2017,All ages,Both,Benign and in situ intestinal neoplasms,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Benign and in situ intestinal neoplasms,DALYs annual % change,0,,
+United States,2017,All ages,Both,Benign and in situ cervical and uterine neoplasms,Percent of total DALYs,0,0,0
+United States,1990 - 2017,All ages,Both,Benign and in situ cervical and uterine neoplasms,DALYs annual % change,0,,
+United States,2017,All ages,Both,Other benign and in situ neoplasms,Percent of total DALYs,8.34563E-05,5.8901E-05,0.000132781
+United States,1990 - 2017,All ages,Both,Other benign and in situ neoplasms,DALYs annual % change,-0.000174856,,
+United States,2017,All ages,Both,Non-rheumatic calcific aortic valve disease,Percent of total DALYs,0.002342304,0.002061436,0.002691555
+United States,1990 - 2017,All ages,Both,Non-rheumatic calcific aortic valve disease,DALYs annual % change,0.010311146,,
+United States,2017,All ages,Both,Non-rheumatic degenerative mitral valve disease,Percent of total DALYs,0.000668774,0.000518119,0.000809013
+United States,1990 - 2017,All ages,Both,Non-rheumatic degenerative mitral valve disease,DALYs annual % change,-0.002705327,,
+United States,2017,All ages,Both,Other non-rheumatic valve diseases,Percent of total DALYs,1.56134E-05,9.52584E-06,2.15468E-05
+United States,1990 - 2017,All ages,Both,Other non-rheumatic valve diseases,DALYs annual % change,0.001288989,,
+United States,2017,All ages,Both,Cirrhosis due to NASH,Percent of total DALYs,0.001872847,0.001643085,0.002125355
+United States,1990 - 2017,All ages,Both,Cirrhosis due to NASH,DALYs annual % change,0.017816184,,
+United States,2017,All ages,Both,Diabetes mellitus type 1,Percent of total DALYs,0.004634972,0.004332265,0.005099085
+United States,1990 - 2017,All ages,Both,Diabetes mellitus type 1,DALYs annual % change,-0.006912959,,
+United States,2017,All ages,Both,Diabetes mellitus type 2,Percent of total DALYs,0.033709378,0.029350292,0.03846121
+United States,1990 - 2017,All ages,Both,Diabetes mellitus type 2,DALYs annual % change,0.020365637,,
+United States,2017,All ages,Both,Atopic dermatitis,Percent of total DALYs,0.005503069,0.00318489,0.008799327
+United States,1990 - 2017,All ages,Both,Atopic dermatitis,DALYs annual % change,-0.00203154,,
+United States,2017,All ages,Both,Contact dermatitis,Percent of total DALYs,0.002420757,0.001731942,0.003278384
+United States,1990 - 2017,All ages,Both,Contact dermatitis,DALYs annual % change,0.001348641,,
+United States,2017,All ages,Both,Seborrhoeic dermatitis,Percent of total DALYs,0.000242643,0.000146648,0.000362928
+United States,1990 - 2017,All ages,Both,Seborrhoeic dermatitis,DALYs annual % change,0.002784385,,
+United States,2017,All ages,Both,Maternal abortion and miscarriage,Percent of total DALYs,5.26731E-05,3.07074E-05,8.17186E-05
+United States,1990 - 2017,All ages,Both,Maternal abortion and miscarriage,DALYs annual % change,-0.013369882,,
+United States,2017,All ages,Both,Liver cancer due to NASH,Percent of total DALYs,0.000644577,0.000547011,0.000752348
+United States,1990 - 2017,All ages,Both,Liver cancer due to NASH,DALYs annual % change,0.033165338,,
+United States,2017,All ages,Both,Chronic kidney disease due to diabetes mellitus type 1,Percent of total DALYs,0.000812798,0.000655839,0.001000988
+United States,1990 - 2017,All ages,Both,Chronic kidney disease due to diabetes mellitus type 1,DALYs annual % change,0.021458716,,
+United States,2017,All ages,Both,Chronic kidney disease due to diabetes mellitus type 2,Percent of total DALYs,0.006073107,0.005254162,0.006945343
+United States,1990 - 2017,All ages,Both,Chronic kidney disease due to diabetes mellitus type 2,DALYs annual % change,0.036702597,,
+United States,2017,All ages,Both,Refraction disorders,Percent of total DALYs,0.001223694,0.000890111,0.00164183
+United States,1990 - 2017,All ages,Both,Refraction disorders,DALYs annual % change,0.000740334,,
+United States,2017,All ages,Both,Near vision loss,Percent of total DALYs,0.000747057,0.00036827,0.001326493
+United States,1990 - 2017,All ages,Both,Near vision loss,DALYs annual % change,0.007748936,,
+,,,,,,,,
+"Global Burden of Disease Study 2017. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",,,,,,,,
+Available from http://vizhub.healthdata.org/gbd-compare/,,,,,,,,
+"For terms and conditions of use, please visit http://www.healthdata.org/about/terms-and-conditions",,,,,,,,
